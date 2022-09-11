@@ -25,6 +25,5 @@ CREATE TABLE tag(
 CREATE TABLE product_tag(
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
     product_id INT -- references product model's id
-    tag_id
-    INT -- references tag model's id
+    tag_id INT -- references tag model's id
 );
