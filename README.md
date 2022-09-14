@@ -18,6 +18,9 @@ In your command line first you will need to run "npm i" to download the dependen
 
 Link to the video demo: https://drive.google.com/file/d/1Wnnz9TIfjgQjt-hbEae81OBu_gzgTGrT/view
 
+![Screen Shot 2022-09-14 at 4 57 18 PM](https://user-images.githubusercontent.com/105259367/190278094-67d02054-a967-4269-a22e-3b07f9fba352.png)
+
+
 ## Credits
 
 Cory Metcalf (Github: https://github.com/cmetcalf8/13-ORM-Ecommerce-Back-End)
